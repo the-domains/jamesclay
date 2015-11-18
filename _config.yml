@@ -1,0 +1,23 @@
+name: Jamesclay
+favicon: null
+layout_spectrum: 0.10803297441452742
+typography_spectrum: 0.13986891112290323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5901624744292349
+  lightness: 0.9121048713568598
+  saturation: 0.6921164016239345
+  rhythmicContrast: 0.0889667475130409
+purpose: []
