@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jamesclay]]></title>
+        <description><![CDATA[Jamesclay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 20:32:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grilled Salmon | Fish Recipes | Jamie Oliver Recipes]]></title>
+            <description><![CDATA[<article><h1>Grilled Salmon | Fish Recipes | Jamie Oliver Recipes</h1><p>Sticky, citrusy salmon with a chilli kick Thanks for voting.</p><img src="https://jamieoliverprod.s3.amazonaws.com/recipe-database/oldImages/medium/673_1_1439302412.jpg"></article>]]></description>
+            <link>http://www.jamieoliver.com/recipes/fish-recipes/marinated-and-grilled-salmon/#uWg1lOFUyEL0x87z.97</link>
+            <guid isPermaLink="false">14c92fc3-34ac-4eba-8278-1939e77419e7</guid>
+            <pubDate>Wed, 18 Nov 2015 20:31:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
