@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Jamesclay]]></title>
         <description><![CDATA[Jamesclay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamesclay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 20:32:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 20:35:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamesclay/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jools olivers pregnant pasta]]></title>
+            <description><![CDATA[<article><h1>jools olivers pregnant pasta</h1><p>Try Jools Oliver's pregnant pasta recipe from Jamie Oliver, and more easy pasta recipes at Red Online.co.uk/food</p><img src="http://redonline.cdnds.net/main/thumbs/3139/the-best-new-winter-lipsticks-_-product-reviews-_-red-online__thumbnail.jpg"></article>]]></description>
+            <link>http://www.redonline.co.uk/food/recipes/jools-oliver-s-pregnant-pasta</link>
+            <guid isPermaLink="false">3f52b4b5-7904-41bc-b839-482db0c8dbaf</guid>
+            <pubDate>Wed, 18 Nov 2015 20:35:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grilled Salmon | Fish Recipes | Jamie Oliver Recipes]]></title>
             <description><![CDATA[<article><h1>Grilled Salmon | Fish Recipes | Jamie Oliver Recipes</h1><p>Sticky, citrusy salmon with a chilli kick Thanks for voting.</p><img src="https://jamieoliverprod.s3.amazonaws.com/recipe-database/oldImages/medium/673_1_1439302412.jpg"></article>]]></description>
